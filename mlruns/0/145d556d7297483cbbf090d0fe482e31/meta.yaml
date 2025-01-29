@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swathi/SwathiPS/AI/IKmlops/mlops-cicd-end-to-end/mlruns/0/145d556d7297483cbbf090d0fe482e31/artifacts
+end_time: 1738182422488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 145d556d7297483cbbf090d0fe482e31
+run_name: monumental-ant-450
+run_uuid: 145d556d7297483cbbf090d0fe482e31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738182421251
+status: 4
+tags: []
+user_id: swathi

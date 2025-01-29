@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swathi/SwathiPS/AI/IKmlops/mlops-cicd-end-to-end/mlruns/0/ccb3ceec7ed74ac6a81188419daf8aeb/artifacts
+end_time: 1738182528800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccb3ceec7ed74ac6a81188419daf8aeb
+run_name: classy-hog-66
+run_uuid: ccb3ceec7ed74ac6a81188419daf8aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738182527648
+status: 4
+tags: []
+user_id: swathi
