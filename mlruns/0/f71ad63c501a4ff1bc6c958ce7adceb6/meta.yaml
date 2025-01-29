@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swathi/SwathiPS/AI/IKmlops/mlops-cicd-end-to-end/mlruns/0/f71ad63c501a4ff1bc6c958ce7adceb6/artifacts
+end_time: 1738182297270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f71ad63c501a4ff1bc6c958ce7adceb6
+run_name: gifted-lynx-138
+run_uuid: f71ad63c501a4ff1bc6c958ce7adceb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738182296116
+status: 4
+tags: []
+user_id: swathi
