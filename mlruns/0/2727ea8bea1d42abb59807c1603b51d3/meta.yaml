@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swathi/SwathiPS/AI/IKmlops/mlops-cicd-end-to-end/mlruns/0/2727ea8bea1d42abb59807c1603b51d3/artifacts
+end_time: 1738182211419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2727ea8bea1d42abb59807c1603b51d3
+run_name: abrasive-duck-350
+run_uuid: 2727ea8bea1d42abb59807c1603b51d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738182210247
+status: 4
+tags: []
+user_id: swathi
