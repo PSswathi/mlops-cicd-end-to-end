@@ -36,3 +36,5 @@ ECR repository name :
 
 309166109941.dkr.ecr.us-east-1.amazonaws.com/mlops-end-end-project
 
+start running
+
