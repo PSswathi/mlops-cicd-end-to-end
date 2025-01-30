@@ -38,3 +38,4 @@ ECR repository name :
 
 start running
 
+try ci cd
